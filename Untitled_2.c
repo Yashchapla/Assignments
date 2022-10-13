@@ -11,7 +11,7 @@ int main()
     int b=++a;
 
     printf("The value of A is %d\n",a);
-    printf("The value of B is %d\n",b);*/
+    printf("The value of B is %d\n",b);*/ 
 
     /*int a=5;
     int b=a--;
